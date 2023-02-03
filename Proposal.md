@@ -15,9 +15,9 @@ Project Description/Outline:
 
 
 Research Questions to Answer:
-+Difference of popularity between genre
-+Platforms preferences based on locations
-+Popularity by regions
++What is the most popular gaming genere per system?
++Does the most popular platform vary by global region?
++Does the most popular genere vary by global region?
 
 
 Datasets to be used: .csv, API (pending)
