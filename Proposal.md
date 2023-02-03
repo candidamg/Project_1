@@ -18,6 +18,7 @@ Research Questions to Answer:
 +What is the most popular gaming genere per system?
 +Does the most popular platform vary by global region?
 +Does the most popular genere vary by global region?
++Trends on genre types released? 
 
 
 Datasets to be used: .csv, API (pending)
