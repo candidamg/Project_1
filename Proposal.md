@@ -10,15 +10,13 @@ Team Members: Christopher Winn, Max Atherton, Rachel Novak, Candida Miranda
 Project Description/Outline: 
 +Videogames 
 +sales
-+Gender
 +consoles
++ Game played the most number of times vs gametime played total
 
 
 -- Research Questions to Answer:
-What is the most popular video game platform?
-What is the most popular gaming genre for each platform?
-What is the most popular gaming genre for each region?
-Are there any seasonal trends to video game sales?
+What is the most popular game played on Steam within the last two weeks?
+
 
 
 Datasets to be used: .csv, API (pending)
