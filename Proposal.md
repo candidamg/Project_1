@@ -10,14 +10,13 @@ Team Members: Christopher Winn, Max Atherton, Rachel Novak, Candida Miranda
 Project Description/Outline: 
 +Videogames 
 +sales
-+poulatiry on Steam
++popularity on Steam
 +game played the most number of times vs gametime played total
 
 
 -- Research Questions to Answer:
-What is the most popula gamed owned on Steam?
-What is the most popular game played[minutes] on Steam within the last two weeks?
-What is the most popular game played[minutes] in since Steam started tracking game play in 2009?
+What game is the played in [minutes] the most on Steam within the last two week?
+What is the most owned game genere on Steam within the last two week?
 
 
 Datasets to be used: .csv, API (pending)
