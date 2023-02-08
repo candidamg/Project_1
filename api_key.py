@@ -1,0 +1,8 @@
+
+# API Keys
+steam_key = '7AA1B4CB622764C773C61C79026D03A1'
+
+rawg_key = "1647b4035e3d4c7da4d2a306d9244808" 
+
+
+

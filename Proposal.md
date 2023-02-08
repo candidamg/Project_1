@@ -9,32 +9,33 @@ Team Members: Christopher Winn, Max Atherton, Rachel Novak, Candida Miranda
 
 Project Description/Outline: 
 +Videogames 
-+sales
-+popularity on Steam
++gameplay time
++correlation between the lenght of the videogame and the score
 +game played the most number of times vs gametime played total
 
 
 -- Research Questions to Answer:
-What game is the played in [minutes] the most on Steam within the last two week?
-What is the most owned game genere on Steam within the last two week?
+Does the Gameplay time [length to complete the game] mean the game will receive a higher rating.
+The longer the video game the higher the score.
+What is the highest rating gameplay timeframe? 
 
 
-Datasets to be used: .csv, API (pending)
+Datasets to be used: RAWG API
 
 Rough Breakdown of Tasks: 
 +python code bones
 +API information-data_set research
 +visualizations
-+writing report
++writen report
 +presentation outline
 
 
 References:
-STEAM API: 7AA1B4CB622764C773C61C79026D03A1
- 2.1 Game interfaces and methods : https://developer.valvesoftware.com/wiki/Steam_Web_API#Game_interfaces_and_methods
+ RAWR: https://rawg.io/apidocs
 
 
 Old references:
 https://www.gamingscan.com/gaming-statistics/
 https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
 https://www.vgchartz.com/
+ 2.1 Game interfaces and methods : https://developer.valvesoftware.com/wiki/Steam_Web_API#Game_interfaces_and_methods
