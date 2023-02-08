@@ -8,7 +8,7 @@ Project Title: Videogames Data Review
 Team Members: Christopher Winn, Max Atherton, Rachel Novak, Candida Miranda
 
 Project Description/Outline: 
---Videogames 
+*Videogames 
 *gameplay time
 *correlation between the lenght of the videogame and the score
 *game played the most number of times vs gametime played total
