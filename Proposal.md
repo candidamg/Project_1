@@ -15,8 +15,8 @@ Project Description/Outline:
 
 
 -- Research Questions to Answer:
-Does the Gameplay time [length to complete the game] mean the game will receive a higher rating.
-The longer the video game the higher the score.
+Does the Gameplay time [length to complete the game] mean the game will receive a higher rating?
+Is the longer the video game the higher the score?
 What is the highest rating gameplay timeframe? 
 
 
