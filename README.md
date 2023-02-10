@@ -1,7 +1,6 @@
 ### Project_1
 Group_3_Module_7
 
-<<<<<<< HEAD
 Group due date: 2/12/2023
 
 ## Project Title: Videogames Data Review
@@ -34,6 +33,3 @@ RAWG API (https://rawg.io/apidocs)
 * Visualizations
 * Writen report
 * Presentation outline
-=======
-
->>>>>>> 03331f0875372b700e1d8327c47a3423bf272125
