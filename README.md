@@ -67,22 +67,34 @@ We then created several plots to analyze the data and address our questions.
 
 We created a histogram to show the average playtime, in hours.  The mean playtime for our sample of games was 5.11 hours.  The distribution was skewed significantly to the right.
 
-We created a scatterplot measuring Metacritic Rating and Playtime, in hours to determine if there was a correlation.  A linear regression model returned a slope of .33.  The vast majority of games had playtime less than 20 hours.  All of the games that were played 30 or more hours had a Metacritic rating of at least 75, and all games that had 40 or more hours played had a Metacritic rating above 80.
+We created a scatterplot measuring Metacritic Rating and Playtime, in hours to determine if there was a correlation.  A linear regression model returned a slope of .27, and the r-squared value is 0.044.  The vast majority of games had playtime less than 20 hours.  All of the games that were played 30 or more hours had a Metacritic rating of at least 75, and all games that had 40 or more hours played had a Metacritic rating above 80.
 
-Our next scatterplot measured Recommendation Count and Playtime, in hours.  The linear regression model returned a slope of 24.85.
+Our next scatterplot measured Recommendation Count and Playtime, in hours.  The linear regression model returned a slope of 27.31, and an r-squared value of .163.
 
-We then created a scatterplot to measure the Number of Users who owned the game vs Playtime.  The slope on the linear regression was 64.75.
+We then created a scatterplot to measure the Number of Users who owned the game vs Playtime.  The slope on the linear regression was 55.1, and the r-squared value was .048.
 
-The final scatterplot involving playtime measured Users Added and Playtime, in hours.  The slope for this linear regression was 128.53.
+The final scatterplot involving playtime measured Users Added and Playtime, in hours.  The slope for this linear regression was 122.35, and the r-squared value was .103.
 
-The regression lines on the scatterplot diagrams can be somewhat misleading, due to the scale.  Of all the metrics we measured against playtime, the slope of the metacritic rating was closest to 1, suggesting the strongest relationship.
+The regression lines on the scatterplot diagrams can be somewhat misleading, due to the scale.  Of all the metrics we measured against playtime, the slope of the metacritic rating was closest to 1, suggesting the strongest relationship.  
 
-We then examined metacritic rating against metrics to determine if there were any relationships there.  
+## Examination of Metacritic Values
 
-The first scatterplot was Recommendation Count against Metacritic Rating.  The slope for this linear regression was 17.02.
+We then examined metacritic rating against metrics to determine if there were any relationships there.  The first diagram was a histogram to determine central tendency.  It is skewed left, with the mean metacritic value of 80.05, a median of 81.0, and a mode of 83.0
 
-Next, we examined the Number of Users who owned the game against Metacritic.  The slop of the linear regression for this analysis was 43.28.
+The first scatterplot was Recommendation Count against Metacritic Rating.  The slope for this linear regression was 22.23, with an r-squared value of .171.
 
-The final scatterplot was Users Added against Metacritic Rating.  The slope for this linear regression was 86.7.
+Next, we examined the Number of Users who owned the game against Metacritic.  The slop of the linear regression for this analysis was 41.79, and a r-squared value of .044.
 
-Of these three metrics, the strongest relationship appears to be between Recommendation Count and Metacritic Rating.
+The final scatterplot was Users Added against Metacritic Rating.  The slope for this linear regression was 95.69, and a r-squared value of .100.
+
+Of these three metrics, the strongest relationship appears to be between Recommendation Count and Metacritic Rating, as indicated by the slope and r-squared values.
+
+## Boxplots
+
+We then developed various boxplots for Metacritic, Playtime, Users Added, and Games Owned.  These visualizations reinforced the skewed distribution of the data provided in the histograms above (Metacritic and Playtime), as well as providing more information about the distribution of Users Added and Games Owned.
+
+## Conclusions and Findings
+
+We ultimately rejected the null hypothesis that there was a correlation between video game playtime and raings.  There was not a strong enough correlation to conclude this was true for the population we measured.
+
+Of all the metrics we measured against playtime, Recommendation Count showed the strongest correlation.  Of the metrics we measured against Metacritic, Recommendation Count again showed the strongest correlation.
